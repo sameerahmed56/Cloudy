@@ -17,8 +17,6 @@ import * as Animatable from 'react-native-animatable';
 import colors from '../constants/colors';
 import Home from '../screen/BottomNav/Home';
 import Order from '../screen/BottomNav/Order';
-import Recipe from '../screen/BottomNav/Recipe';
-import Recurring from '../screen/BottomNav/Recurring';
 import SplashScreen, {isLoggedIn} from '../screen/Splash/SplashScreen';
 import Login from '../screen/LoginScreen/Login';
 import Signup from '../screen/LoginScreen/Signup';

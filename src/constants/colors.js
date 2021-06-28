@@ -30,7 +30,7 @@ export default {
 
   BACKGROUND: '#fff',
   TILE: '#f7f7f7', //E5ECEE  //f7f7f7  //fbfbfb //edf5f5
-  THEME_ORANGE: '#F490B2', //3d73dd tint Blue //052450 dark blue //0E4A86 awesome blue
+  THEME_ORANGE: '#FD5679', //3d73dd tint Blue //052450 dark blue //0E4A86 awesome blue
   THEME_LIGHT_ORANGE: '#ffe6ee', //2392c2 //27a1d6 //1e88e5 wfms color
   THEME_ORANGE_DARK: '#3662AA',
   LOGIN_THEME: '#204CB8',

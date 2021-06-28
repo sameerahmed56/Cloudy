@@ -12,6 +12,8 @@ target 'Cloudy' do
     :hermes_enabled => false
   )
 
+  pod 'react-native-geolocation', :path => '../node_modules/@react-native-community/geolocation'
+
   target 'CloudyTests' do
     inherit! :complete
     # Pods for testing
